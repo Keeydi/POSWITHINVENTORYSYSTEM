@@ -1,0 +1,299 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DAVID\\Desktop\\bckuo\\POSWITHINVENTORYSYSTEM-DESKTOP-GB785JE\\POSWITHINVENTORYSYSTEM-DESKTOP-GB785JE\\POSWITHINVENTORYSYSTEM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E35880DD-4FB9-44BE-A481-DCF44353F55B}|POSWITHINVENTORY\\POSWITHINVENTORY.vbproj|c:\\users\\david\\desktop\\bckuo\\poswithinventorysystem-desktop-gb785je\\poswithinventorysystem-desktop-gb785je\\poswithinventorysystem\\poswithinventory\\connection\\connect.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{E35880DD-4FB9-44BE-A481-DCF44353F55B}|POSWITHINVENTORY\\POSWITHINVENTORY.vbproj|solutionrelative:poswithinventory\\connection\\connect.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E35880DD-4FB9-44BE-A481-DCF44353F55B}|POSWITHINVENTORY\\POSWITHINVENTORY.vbproj|c:\\users\\david\\desktop\\bckuo\\poswithinventorysystem-desktop-gb785je\\poswithinventorysystem-desktop-gb785je\\poswithinventorysystem\\poswithinventory\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{E35880DD-4FB9-44BE-A481-DCF44353F55B}|POSWITHINVENTORY\\POSWITHINVENTORY.vbproj|solutionrelative:poswithinventory\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E35880DD-4FB9-44BE-A481-DCF44353F55B}|POSWITHINVENTORY\\POSWITHINVENTORY.vbproj|c:\\users\\david\\desktop\\bckuo\\poswithinventorysystem-desktop-gb785je\\poswithinventorysystem-desktop-gb785je\\poswithinventorysystem\\poswithinventory\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{E35880DD-4FB9-44BE-A481-DCF44353F55B}|POSWITHINVENTORY\\POSWITHINVENTORY.vbproj|solutionrelative:poswithinventory\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E35880DD-4FB9-44BE-A481-DCF44353F55B}|POSWITHINVENTORY\\POSWITHINVENTORY.vbproj|c:\\users\\david\\desktop\\bckuo\\poswithinventorysystem-desktop-gb785je\\poswithinventorysystem-desktop-gb785je\\poswithinventorysystem\\poswithinventory\\dashboards\\frmmaindashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{E35880DD-4FB9-44BE-A481-DCF44353F55B}|POSWITHINVENTORY\\POSWITHINVENTORY.vbproj|solutionrelative:poswithinventory\\dashboards\\frmmaindashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E35880DD-4FB9-44BE-A481-DCF44353F55B}|POSWITHINVENTORY\\POSWITHINVENTORY.vbproj|c:\\users\\david\\desktop\\bckuo\\poswithinventorysystem-desktop-gb785je\\poswithinventorysystem-desktop-gb785je\\poswithinventorysystem\\poswithinventory\\dashboards\\frmmaindashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{E35880DD-4FB9-44BE-A481-DCF44353F55B}|POSWITHINVENTORY\\POSWITHINVENTORY.vbproj|solutionrelative:poswithinventory\\dashboards\\frmmaindashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E35880DD-4FB9-44BE-A481-DCF44353F55B}|POSWITHINVENTORY\\POSWITHINVENTORY.vbproj|c:\\users\\david\\desktop\\bckuo\\poswithinventorysystem-desktop-gb785je\\poswithinventorysystem-desktop-gb785je\\poswithinventorysystem\\poswithinventory\\pos\\pointofsalesystem.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{E35880DD-4FB9-44BE-A481-DCF44353F55B}|POSWITHINVENTORY\\POSWITHINVENTORY.vbproj|solutionrelative:poswithinventory\\pos\\pointofsalesystem.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E35880DD-4FB9-44BE-A481-DCF44353F55B}|POSWITHINVENTORY\\POSWITHINVENTORY.vbproj|c:\\users\\david\\desktop\\bckuo\\poswithinventorysystem-desktop-gb785je\\poswithinventorysystem-desktop-gb785je\\poswithinventorysystem\\poswithinventory\\dashboards\\dashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{E35880DD-4FB9-44BE-A481-DCF44353F55B}|POSWITHINVENTORY\\POSWITHINVENTORY.vbproj|solutionrelative:poswithinventory\\dashboards\\dashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E35880DD-4FB9-44BE-A481-DCF44353F55B}|POSWITHINVENTORY\\POSWITHINVENTORY.vbproj|c:\\users\\david\\desktop\\bckuo\\poswithinventorysystem-desktop-gb785je\\poswithinventorysystem-desktop-gb785je\\poswithinventorysystem\\poswithinventory\\inventory\\products\\frmaeproduct.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{E35880DD-4FB9-44BE-A481-DCF44353F55B}|POSWITHINVENTORY\\POSWITHINVENTORY.vbproj|solutionrelative:poswithinventory\\inventory\\products\\frmaeproduct.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E35880DD-4FB9-44BE-A481-DCF44353F55B}|POSWITHINVENTORY\\POSWITHINVENTORY.vbproj|c:\\users\\david\\desktop\\bckuo\\poswithinventorysystem-desktop-gb785je\\poswithinventorysystem-desktop-gb785je\\poswithinventorysystem\\poswithinventory\\inventory\\stockin\\astockin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{E35880DD-4FB9-44BE-A481-DCF44353F55B}|POSWITHINVENTORY\\POSWITHINVENTORY.vbproj|solutionrelative:poswithinventory\\inventory\\stockin\\astockin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E35880DD-4FB9-44BE-A481-DCF44353F55B}|POSWITHINVENTORY\\POSWITHINVENTORY.vbproj|c:\\users\\david\\desktop\\bckuo\\poswithinventorysystem-desktop-gb785je\\poswithinventorysystem-desktop-gb785je\\poswithinventorysystem\\poswithinventory\\inventory\\stockin\\astockin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{E35880DD-4FB9-44BE-A481-DCF44353F55B}|POSWITHINVENTORY\\POSWITHINVENTORY.vbproj|solutionrelative:poswithinventory\\inventory\\stockin\\astockin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E35880DD-4FB9-44BE-A481-DCF44353F55B}|POSWITHINVENTORY\\POSWITHINVENTORY.vbproj|c:\\users\\david\\desktop\\bckuo\\poswithinventorysystem-desktop-gb785je\\poswithinventorysystem-desktop-gb785je\\poswithinventorysystem\\poswithinventory\\inventory\\products\\frmaeproduct.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{E35880DD-4FB9-44BE-A481-DCF44353F55B}|POSWITHINVENTORY\\POSWITHINVENTORY.vbproj|solutionrelative:poswithinventory\\inventory\\products\\frmaeproduct.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E35880DD-4FB9-44BE-A481-DCF44353F55B}|POSWITHINVENTORY\\POSWITHINVENTORY.vbproj|c:\\users\\david\\desktop\\bckuo\\poswithinventorysystem-desktop-gb785je\\poswithinventorysystem-desktop-gb785je\\poswithinventorysystem\\poswithinventory\\employees\\archemp.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{E35880DD-4FB9-44BE-A481-DCF44353F55B}|POSWITHINVENTORY\\POSWITHINVENTORY.vbproj|solutionrelative:poswithinventory\\employees\\archemp.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E35880DD-4FB9-44BE-A481-DCF44353F55B}|POSWITHINVENTORY\\POSWITHINVENTORY.vbproj|c:\\users\\david\\desktop\\bckuo\\poswithinventorysystem-desktop-gb785je\\poswithinventorysystem-desktop-gb785je\\poswithinventorysystem\\poswithinventory\\employees\\archemp.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{E35880DD-4FB9-44BE-A481-DCF44353F55B}|POSWITHINVENTORY\\POSWITHINVENTORY.vbproj|solutionrelative:poswithinventory\\employees\\archemp.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E35880DD-4FB9-44BE-A481-DCF44353F55B}|POSWITHINVENTORY\\POSWITHINVENTORY.vbproj|c:\\users\\david\\desktop\\bckuo\\poswithinventorysystem-desktop-gb785je\\poswithinventorysystem-desktop-gb785je\\poswithinventorysystem\\poswithinventory\\employees\\frmemployee.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{E35880DD-4FB9-44BE-A481-DCF44353F55B}|POSWITHINVENTORY\\POSWITHINVENTORY.vbproj|solutionrelative:poswithinventory\\employees\\frmemployee.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E35880DD-4FB9-44BE-A481-DCF44353F55B}|POSWITHINVENTORY\\POSWITHINVENTORY.vbproj|c:\\users\\david\\desktop\\bckuo\\poswithinventorysystem-desktop-gb785je\\poswithinventorysystem-desktop-gb785je\\poswithinventorysystem\\poswithinventory\\employees\\frmemployee.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{E35880DD-4FB9-44BE-A481-DCF44353F55B}|POSWITHINVENTORY\\POSWITHINVENTORY.vbproj|solutionrelative:poswithinventory\\employees\\frmemployee.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E35880DD-4FB9-44BE-A481-DCF44353F55B}|POSWITHINVENTORY\\POSWITHINVENTORY.vbproj|c:\\users\\david\\desktop\\bckuo\\poswithinventorysystem-desktop-gb785je\\poswithinventorysystem-desktop-gb785je\\poswithinventorysystem\\poswithinventory\\inventory\\defects\\defects.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{E35880DD-4FB9-44BE-A481-DCF44353F55B}|POSWITHINVENTORY\\POSWITHINVENTORY.vbproj|solutionrelative:poswithinventory\\inventory\\defects\\defects.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E35880DD-4FB9-44BE-A481-DCF44353F55B}|POSWITHINVENTORY\\POSWITHINVENTORY.vbproj|c:\\users\\david\\desktop\\bckuo\\poswithinventorysystem-desktop-gb785je\\poswithinventorysystem-desktop-gb785je\\poswithinventorysystem\\poswithinventory\\inventory\\defects\\defects.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{E35880DD-4FB9-44BE-A481-DCF44353F55B}|POSWITHINVENTORY\\POSWITHINVENTORY.vbproj|solutionrelative:poswithinventory\\inventory\\defects\\defects.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\bckuo\\POSWITHINVENTORYSYSTEM-DESKTOP-GB785JE\\POSWITHINVENTORYSYSTEM-DESKTOP-GB785JE\\POSWITHINVENTORYSYSTEM\\POSWITHINVENTORY\\Form1.vb",
+              "RelativeDocumentMoniker": "POSWITHINVENTORY\\Form1.vb",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\bckuo\\POSWITHINVENTORYSYSTEM-DESKTOP-GB785JE\\POSWITHINVENTORYSYSTEM-DESKTOP-GB785JE\\POSWITHINVENTORYSYSTEM\\POSWITHINVENTORY\\Form1.vb",
+              "RelativeToolTip": "POSWITHINVENTORY\\Form1.vb",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-10T11:12:58.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\bckuo\\POSWITHINVENTORYSYSTEM-DESKTOP-GB785JE\\POSWITHINVENTORYSYSTEM-DESKTOP-GB785JE\\POSWITHINVENTORYSYSTEM\\POSWITHINVENTORY\\Form1.vb",
+              "RelativeDocumentMoniker": "POSWITHINVENTORY\\Form1.vb",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\bckuo\\POSWITHINVENTORYSYSTEM-DESKTOP-GB785JE\\POSWITHINVENTORYSYSTEM-DESKTOP-GB785JE\\POSWITHINVENTORYSYSTEM\\POSWITHINVENTORY\\Form1.vb [Design]",
+              "RelativeToolTip": "POSWITHINVENTORY\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-10T11:12:48.981Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pointofsalesystem.vb",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\bckuo\\POSWITHINVENTORYSYSTEM-DESKTOP-GB785JE\\POSWITHINVENTORYSYSTEM-DESKTOP-GB785JE\\POSWITHINVENTORYSYSTEM\\POSWITHINVENTORY\\POS\\Pointofsalesystem.vb",
+              "RelativeDocumentMoniker": "POSWITHINVENTORY\\POS\\Pointofsalesystem.vb",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\bckuo\\POSWITHINVENTORYSYSTEM-DESKTOP-GB785JE\\POSWITHINVENTORYSYSTEM-DESKTOP-GB785JE\\POSWITHINVENTORYSYSTEM\\POSWITHINVENTORY\\POS\\Pointofsalesystem.vb",
+              "RelativeToolTip": "POSWITHINVENTORY\\POS\\Pointofsalesystem.vb",
+              "ViewState": "AgIAAJwCAAAAAAAAAAAkwLYCAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-10T10:58:26.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmMAINDASHBOARD.vb",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\bckuo\\POSWITHINVENTORYSYSTEM-DESKTOP-GB785JE\\POSWITHINVENTORYSYSTEM-DESKTOP-GB785JE\\POSWITHINVENTORYSYSTEM\\POSWITHINVENTORY\\Dashboards\\frmMAINDASHBOARD.vb",
+              "RelativeDocumentMoniker": "POSWITHINVENTORY\\Dashboards\\frmMAINDASHBOARD.vb",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\bckuo\\POSWITHINVENTORYSYSTEM-DESKTOP-GB785JE\\POSWITHINVENTORYSYSTEM-DESKTOP-GB785JE\\POSWITHINVENTORYSYSTEM\\POSWITHINVENTORY\\Dashboards\\frmMAINDASHBOARD.vb",
+              "RelativeToolTip": "POSWITHINVENTORY\\Dashboards\\frmMAINDASHBOARD.vb",
+              "ViewState": "AgIAAMEAAAAAAAAAAAAAANMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-10T10:58:22.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmMAINDASHBOARD.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\bckuo\\POSWITHINVENTORYSYSTEM-DESKTOP-GB785JE\\POSWITHINVENTORYSYSTEM-DESKTOP-GB785JE\\POSWITHINVENTORYSYSTEM\\POSWITHINVENTORY\\Dashboards\\frmMAINDASHBOARD.vb",
+              "RelativeDocumentMoniker": "POSWITHINVENTORY\\Dashboards\\frmMAINDASHBOARD.vb",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\bckuo\\POSWITHINVENTORYSYSTEM-DESKTOP-GB785JE\\POSWITHINVENTORYSYSTEM-DESKTOP-GB785JE\\POSWITHINVENTORYSYSTEM\\POSWITHINVENTORY\\Dashboards\\frmMAINDASHBOARD.vb [Design]",
+              "RelativeToolTip": "POSWITHINVENTORY\\Dashboards\\frmMAINDASHBOARD.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-10T10:56:44.299Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AStockin.vb",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\bckuo\\POSWITHINVENTORYSYSTEM-DESKTOP-GB785JE\\POSWITHINVENTORYSYSTEM-DESKTOP-GB785JE\\POSWITHINVENTORYSYSTEM\\POSWITHINVENTORY\\INVENTORY\\Stockin\\AStockin.vb",
+              "RelativeDocumentMoniker": "POSWITHINVENTORY\\INVENTORY\\Stockin\\AStockin.vb",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\bckuo\\POSWITHINVENTORYSYSTEM-DESKTOP-GB785JE\\POSWITHINVENTORYSYSTEM-DESKTOP-GB785JE\\POSWITHINVENTORYSYSTEM\\POSWITHINVENTORY\\INVENTORY\\Stockin\\AStockin.vb",
+              "RelativeToolTip": "POSWITHINVENTORY\\INVENTORY\\Stockin\\AStockin.vb",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwDAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-10T10:53:50.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AStockin.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\bckuo\\POSWITHINVENTORYSYSTEM-DESKTOP-GB785JE\\POSWITHINVENTORYSYSTEM-DESKTOP-GB785JE\\POSWITHINVENTORYSYSTEM\\POSWITHINVENTORY\\INVENTORY\\Stockin\\AStockin.vb",
+              "RelativeDocumentMoniker": "POSWITHINVENTORY\\INVENTORY\\Stockin\\AStockin.vb",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\bckuo\\POSWITHINVENTORYSYSTEM-DESKTOP-GB785JE\\POSWITHINVENTORYSYSTEM-DESKTOP-GB785JE\\POSWITHINVENTORYSYSTEM\\POSWITHINVENTORY\\INVENTORY\\Stockin\\AStockin.vb [Design]",
+              "RelativeToolTip": "POSWITHINVENTORY\\INVENTORY\\Stockin\\AStockin.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-10T10:53:49.101Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmAEProduct.vb",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\bckuo\\POSWITHINVENTORYSYSTEM-DESKTOP-GB785JE\\POSWITHINVENTORYSYSTEM-DESKTOP-GB785JE\\POSWITHINVENTORYSYSTEM\\POSWITHINVENTORY\\INVENTORY\\Products\\frmAEProduct.vb",
+              "RelativeDocumentMoniker": "POSWITHINVENTORY\\INVENTORY\\Products\\frmAEProduct.vb",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\bckuo\\POSWITHINVENTORYSYSTEM-DESKTOP-GB785JE\\POSWITHINVENTORYSYSTEM-DESKTOP-GB785JE\\POSWITHINVENTORYSYSTEM\\POSWITHINVENTORY\\INVENTORY\\Products\\frmAEProduct.vb",
+              "RelativeToolTip": "POSWITHINVENTORY\\INVENTORY\\Products\\frmAEProduct.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-10T10:50:57.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmAEProduct.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\bckuo\\POSWITHINVENTORYSYSTEM-DESKTOP-GB785JE\\POSWITHINVENTORYSYSTEM-DESKTOP-GB785JE\\POSWITHINVENTORYSYSTEM\\POSWITHINVENTORY\\INVENTORY\\Products\\frmAEProduct.vb",
+              "RelativeDocumentMoniker": "POSWITHINVENTORY\\INVENTORY\\Products\\frmAEProduct.vb",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\bckuo\\POSWITHINVENTORYSYSTEM-DESKTOP-GB785JE\\POSWITHINVENTORYSYSTEM-DESKTOP-GB785JE\\POSWITHINVENTORYSYSTEM\\POSWITHINVENTORY\\INVENTORY\\Products\\frmAEProduct.vb [Design]",
+              "RelativeToolTip": "POSWITHINVENTORY\\INVENTORY\\Products\\frmAEProduct.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-10T10:50:55.877Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Connect.vb",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\bckuo\\POSWITHINVENTORYSYSTEM-DESKTOP-GB785JE\\POSWITHINVENTORYSYSTEM-DESKTOP-GB785JE\\POSWITHINVENTORYSYSTEM\\POSWITHINVENTORY\\Connection\\Connect.vb",
+              "RelativeDocumentMoniker": "POSWITHINVENTORY\\Connection\\Connect.vb",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\bckuo\\POSWITHINVENTORYSYSTEM-DESKTOP-GB785JE\\POSWITHINVENTORYSYSTEM-DESKTOP-GB785JE\\POSWITHINVENTORYSYSTEM\\POSWITHINVENTORY\\Connection\\Connect.vb*",
+              "RelativeToolTip": "POSWITHINVENTORY\\Connection\\Connect.vb*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-10T10:49:34.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dashboard.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\bckuo\\POSWITHINVENTORYSYSTEM-DESKTOP-GB785JE\\POSWITHINVENTORYSYSTEM-DESKTOP-GB785JE\\POSWITHINVENTORYSYSTEM\\POSWITHINVENTORY\\Dashboards\\Dashboard.vb",
+              "RelativeDocumentMoniker": "POSWITHINVENTORY\\Dashboards\\Dashboard.vb",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\bckuo\\POSWITHINVENTORYSYSTEM-DESKTOP-GB785JE\\POSWITHINVENTORYSYSTEM-DESKTOP-GB785JE\\POSWITHINVENTORYSYSTEM\\POSWITHINVENTORY\\Dashboards\\Dashboard.vb [Design]",
+              "RelativeToolTip": "POSWITHINVENTORY\\Dashboards\\Dashboard.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-02T03:50:23.532Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Archemp.vb",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\bckuo\\POSWITHINVENTORYSYSTEM-DESKTOP-GB785JE\\POSWITHINVENTORYSYSTEM-DESKTOP-GB785JE\\POSWITHINVENTORYSYSTEM\\POSWITHINVENTORY\\EMPLOYEES\\Archemp.vb",
+              "RelativeDocumentMoniker": "POSWITHINVENTORY\\EMPLOYEES\\Archemp.vb",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\bckuo\\POSWITHINVENTORYSYSTEM-DESKTOP-GB785JE\\POSWITHINVENTORYSYSTEM-DESKTOP-GB785JE\\POSWITHINVENTORYSYSTEM\\POSWITHINVENTORY\\EMPLOYEES\\Archemp.vb",
+              "RelativeToolTip": "POSWITHINVENTORY\\EMPLOYEES\\Archemp.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-02T03:13:16.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Defects.vb",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\bckuo\\POSWITHINVENTORYSYSTEM-DESKTOP-GB785JE\\POSWITHINVENTORYSYSTEM-DESKTOP-GB785JE\\POSWITHINVENTORYSYSTEM\\POSWITHINVENTORY\\INVENTORY\\Defects\\Defects.vb",
+              "RelativeDocumentMoniker": "POSWITHINVENTORY\\INVENTORY\\Defects\\Defects.vb",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\bckuo\\POSWITHINVENTORYSYSTEM-DESKTOP-GB785JE\\POSWITHINVENTORYSYSTEM-DESKTOP-GB785JE\\POSWITHINVENTORYSYSTEM\\POSWITHINVENTORY\\INVENTORY\\Defects\\Defects.vb",
+              "RelativeToolTip": "POSWITHINVENTORY\\INVENTORY\\Defects\\Defects.vb",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAUwHYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-02T03:13:01.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Defects.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\bckuo\\POSWITHINVENTORYSYSTEM-DESKTOP-GB785JE\\POSWITHINVENTORYSYSTEM-DESKTOP-GB785JE\\POSWITHINVENTORYSYSTEM\\POSWITHINVENTORY\\INVENTORY\\Defects\\Defects.vb",
+              "RelativeDocumentMoniker": "POSWITHINVENTORY\\INVENTORY\\Defects\\Defects.vb",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\bckuo\\POSWITHINVENTORYSYSTEM-DESKTOP-GB785JE\\POSWITHINVENTORYSYSTEM-DESKTOP-GB785JE\\POSWITHINVENTORYSYSTEM\\POSWITHINVENTORY\\INVENTORY\\Defects\\Defects.vb [Design]",
+              "RelativeToolTip": "POSWITHINVENTORY\\INVENTORY\\Defects\\Defects.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-02T03:11:14.546Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Archemp.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\bckuo\\POSWITHINVENTORYSYSTEM-DESKTOP-GB785JE\\POSWITHINVENTORYSYSTEM-DESKTOP-GB785JE\\POSWITHINVENTORYSYSTEM\\POSWITHINVENTORY\\EMPLOYEES\\Archemp.vb",
+              "RelativeDocumentMoniker": "POSWITHINVENTORY\\EMPLOYEES\\Archemp.vb",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\bckuo\\POSWITHINVENTORYSYSTEM-DESKTOP-GB785JE\\POSWITHINVENTORYSYSTEM-DESKTOP-GB785JE\\POSWITHINVENTORYSYSTEM\\POSWITHINVENTORY\\EMPLOYEES\\Archemp.vb [Design]",
+              "RelativeToolTip": "POSWITHINVENTORY\\EMPLOYEES\\Archemp.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-02T03:10:28.235Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmEmployee.vb",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\bckuo\\POSWITHINVENTORYSYSTEM-DESKTOP-GB785JE\\POSWITHINVENTORYSYSTEM-DESKTOP-GB785JE\\POSWITHINVENTORYSYSTEM\\POSWITHINVENTORY\\EMPLOYEES\\frmEmployee.vb",
+              "RelativeDocumentMoniker": "POSWITHINVENTORY\\EMPLOYEES\\frmEmployee.vb",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\bckuo\\POSWITHINVENTORYSYSTEM-DESKTOP-GB785JE\\POSWITHINVENTORYSYSTEM-DESKTOP-GB785JE\\POSWITHINVENTORYSYSTEM\\POSWITHINVENTORY\\EMPLOYEES\\frmEmployee.vb",
+              "RelativeToolTip": "POSWITHINVENTORY\\EMPLOYEES\\frmEmployee.vb",
+              "ViewState": "AgIAADcAAAAAAAAAAAAkwAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-02T03:08:34.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmEmployee.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\bckuo\\POSWITHINVENTORYSYSTEM-DESKTOP-GB785JE\\POSWITHINVENTORYSYSTEM-DESKTOP-GB785JE\\POSWITHINVENTORYSYSTEM\\POSWITHINVENTORY\\EMPLOYEES\\frmEmployee.vb",
+              "RelativeDocumentMoniker": "POSWITHINVENTORY\\EMPLOYEES\\frmEmployee.vb",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\bckuo\\POSWITHINVENTORYSYSTEM-DESKTOP-GB785JE\\POSWITHINVENTORYSYSTEM-DESKTOP-GB785JE\\POSWITHINVENTORYSYSTEM\\POSWITHINVENTORY\\EMPLOYEES\\frmEmployee.vb [Design]",
+              "RelativeToolTip": "POSWITHINVENTORY\\EMPLOYEES\\frmEmployee.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-02T03:08:24.219Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

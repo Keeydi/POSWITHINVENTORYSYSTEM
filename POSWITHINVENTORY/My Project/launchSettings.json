@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "POSWITHINVENTORY": {
+      "commandName": "Project",
+      "sqlDebugging": true
+    }
+  }
+}

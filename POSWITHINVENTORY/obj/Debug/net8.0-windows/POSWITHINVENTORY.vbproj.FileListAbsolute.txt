@@ -108,3 +108,4 @@ C:\Users\keeee\OneDrive\Desktop\POSWITHINVENTORYSYSTEM\POSWITHINVENTORY\obj\Debu
 C:\Users\keeee\OneDrive\Desktop\POSWITHINVENTORYSYSTEM\POSWITHINVENTORY\obj\Debug\net8.0-windows\POSWITHINVENTORY.pdb
 C:\Users\keeee\OneDrive\Desktop\POSWITHINVENTORYSYSTEM\POSWITHINVENTORY\obj\Debug\net8.0-windows\POSWITHINVENTORY.genruntimeconfig.cache
 C:\Users\keeee\OneDrive\Desktop\POSWITHINVENTORYSYSTEM\POSWITHINVENTORY\obj\Debug\net8.0-windows\ref\POSWITHINVENTORY.dll
+C:\Users\keeee\OneDrive\Desktop\POSWITHINVENTORYSYSTEM\POSWITHINVENTORY\obj\Debug\net8.0-windows\POSWITHINVENTORY.sourcelink.json

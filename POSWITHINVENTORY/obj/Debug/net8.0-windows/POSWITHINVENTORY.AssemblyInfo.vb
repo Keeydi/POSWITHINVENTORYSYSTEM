@@ -15,7 +15,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("POSWITHINVENTORY"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ae1f4d28edb5aeceb467c406a6024f8b4d4e991"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("POSWITHINVENTORY"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("POSWITHINVENTORY"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _

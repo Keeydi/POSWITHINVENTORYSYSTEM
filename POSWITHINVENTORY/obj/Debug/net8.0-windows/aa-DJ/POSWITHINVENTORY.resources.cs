@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("POSWITHINVENTORY")]
 [assembly: System.Reflection.AssemblyCopyrightAttribute(" ")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ae1f4d28edb5aeceb467c406a6024f8b4d4e991")]
 [assembly: System.Reflection.AssemblyProductAttribute("POSWITHINVENTORY")]
 [assembly: System.Reflection.AssemblyTitleAttribute("POSWITHINVENTORY")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

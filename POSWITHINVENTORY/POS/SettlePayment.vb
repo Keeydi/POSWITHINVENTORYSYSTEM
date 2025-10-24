@@ -1,4 +1,4 @@
-﻿Imports System.Data.SqlClient
+﻿Imports Microsoft.Data.SqlClient
 Imports System.Drawing.Printing
 Imports System.Text
 Imports Newtonsoft.Json

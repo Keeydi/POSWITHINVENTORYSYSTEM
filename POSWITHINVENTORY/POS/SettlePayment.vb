@@ -445,7 +445,7 @@ Public Class SettlePayment
         e.Graphics.DrawString("Cash:", f10b, Brushes.Black, 0, currentY)
         e.Graphics.DrawString("₱" & Format(Me.receiptData("CashGiven"), "N2"), f10b, Brushes.Black, PD.DefaultPageSettings.PaperSize.Width - 10, currentY, right)
         currentY += 15
-        e.Graphics.DrawString("change:", f10b, Brushes.Black, 0, currentY)
+        e.Graphics.DrawString("C:", f10b, Brushes.Black, 0, currentY)
         e.Graphics.DrawString("₱" & Format(Me.receiptData("ChangeAmount"), "N2"), f10b, Brushes.Black, PD.DefaultPageSettings.PaperSize.Width - 10, currentY, right)
         currentY += 30
         e.Graphics.DrawString("Thanks for shopping!!!", f10, Brushes.Black, Centermargin, currentY, Center)
